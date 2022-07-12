@@ -1,0 +1,1 @@
+All the exercises for the 120 section of the back-end portion of the core curriculum. These problems are all written in Object Oriented Ruby. 
